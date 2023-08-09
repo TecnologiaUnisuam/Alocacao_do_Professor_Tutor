@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link rel="icon" href="img/icons/iconGuia.png" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="cores.css">
+
+  <title>UNISUAM - EAD | Alocação do Professor Tutor</title>
+</head>
+
+<body>
+  <section class="conteudoTopo">
+    <h1 id="nomeTopo" class="nomeTopo txtBranco">Alocação do Professor Tutor</h1>
+  </section>
+  <section id="validacoes" class="validacoes">
+    <div class="validadores">
+      <p class="validador"><span class="nome"><b>Matrícula:</b></span><input type="text" class="matricula"
+          id="matricula" value="1072"></p>
+      <p class="validador"><input type="button" class="buscar" id="buscar" value="BUSCAR DISCIPLINA(S)"
+          onclick="buscar()"></p>
+    </div>
+  </section>
+  <section id="disciplinas" class="disciplinas displayNone">
+    <div class="divTabela bgBranco">
+      <!-- EAD -->
+      <table class="tabela">
+        <tr>
+          <th colspan="5" class="bgLaranjaClaroSuam">DISCIPLINAS EAD</th>
+        </tr>
+        <tr class="bgBrancoClaro1">
+          <th>CÓDIGO DA DISCIPLINA</th>
+          <th>NOME DA DISCIPLINA</th>
+          <th>PROVA REGULAR</th>
+          <th>ENCONTRO CORUJA</th>
+          <th>AVALIAÇÃO</th>
+        </tr>
+        <tr class='CPF1072 displayNone' id='CPF1072' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GDMK0002|EAD|01</td>
+          <td class='descricaoNome'>Gestão Contemporânea</td>
+          <td class='descricaoProvaRegular laranja'>Presencial</td>
+          <td class='descricaoEncontro verde'>Possui</td>
+          <td class='descricaoAvaliacao'>Nota EAD</td>
+        </tr>
+        <tr class='CPF1072 displayNone' id='CPF1072' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GADM1099|EAD|01</td>
+          <td class='descricaoNome'>Gestão Contemporânea</td>
+          <td class='descricaoProvaRegular azul'>Remoto</td>
+          <td class='descricaoEncontro verde'>Possui</td>
+          <td class='descricaoAvaliacao'>Resultado Final</td>
+        </tr>
+        <tr class='CPF1073 displayNone' id='CPF1073' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GADM1099|EAD|01</td>
+          <td class='descricaoNome'>Pesquisa De Marketing e Comportamento Do Consumidor</td>
+          <td class='descricaoProvaRegular azul'>Remoto</td>
+          <td class='descricaoEncontro verde'>Possui</td>
+          <td class='descricaoAvaliacao'>Resultado Final</td>
+        </tr>
+      </table>
+      <!-- ONLINE -->
+      <table class="tabela">
+        <tr>
+          <th colspan="5" class="bgLaranjaClaroSuam">DISCIPLINAS ONLINE</th>
+        </tr>
+        <tr class="bgBrancoClaro1">
+          <th>CÓDIGO DA DISCIPLINA</th>
+          <th>NOME DA DISCIPLINA</th>
+          <th>PROVA REGULAR</th>
+          <th>ENCONTRO CORUJA</th>
+          <th>AVALIAÇÃO</th>
+        </tr>
+        <tr class='CPF1072 displayNone' id='CPF1072' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GDMK0002|EAD|01</td>
+          <td class='descricaoNome'>Gestão Contemporânea</td>
+          <td class='descricaoProvaRegular laranja'>Presencial</td>
+          <td class='descricaoEncontro vermelho'>Não Possui</td>
+          <td class='descricaoAvaliacao'>Nota EAD</td>
+        </tr>
+        <tr class='CPF1072 displayNone' id='CPF1072' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GADM1099|EAD|01</td>
+          <td class='descricaoNome'>Gestão Contemporânea</td>
+          <td class='descricaoProvaRegular azul'>Remoto</td>
+          <td class='descricaoEncontro vermelho'>Não Possui</td>
+          <td class='descricaoAvaliacao'>Resultado Final</td>
+        </tr>
+        <tr class='CPF1073 displayNone' id='CPF1073' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GADM1099|EAD|01</td>
+          <td class='descricaoNome'>Pesquisa De Marketing e Comportamento Do Consumidor</td>
+          <td class='descricaoProvaRegular azul'>Remoto</td>
+          <td class='descricaoEncontro vermelho'>Não Possui</td>
+          <td class='descricaoAvaliacao'>Resultado Final</td>
+        </tr>
+      </table>
+      <!-- MODULAR -->
+      <table class="tabela">
+        <tr>
+          <th colspan="2" class="bgLaranjaClaroSuam">MÓDULOS PRESENCIAIS</th>
+        </tr>
+        <tr class="bgBrancoClaro1">
+          <th>CÓDIGO DO MÓDULO</th>
+          <th>NOME DO MÓDULO</th>
+        </tr>
+        <tr class='CPF1072 displayNone' id='CPF1072' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GDMK0002|EAD|01</td>
+          <td class='descricaoNome'>Gestão Contemporânea</td>
+        </tr>
+        <tr class='CPF1072 displayNone' id='CPF1072' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GDMK0002|EAD|01</td>
+          <td class='descricaoNome'>Gestão Contemporânea</td>
+        </tr>
+        <tr class='CPF1073 displayNone' id='CPF1073' name='matriculas'>
+          <td class='descricaoCodigo'>2023-2|GDMK0002|EAD|01</td>
+          <td class='descricaoNome'>Gestão Contemporânea</td>
+          <td class='descricaoAvaliacao'>Resultado Final</td>
+        </tr>
+      </table>
+    </div>
+  </section>
+
+
+  <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
