@@ -201,7 +201,7 @@ function buscar() {
         nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Carla Caroline Franzini De Souza</span>';
     }
     else if (matricula == '12312989794') {
-        nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - #N/D #N/D</span>';
+        nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Pablo Tentempo Steiner</span>';
     }
     else if (matricula == '36193836772') {
         nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Isabel de Oliveira Nascimento</span>';
