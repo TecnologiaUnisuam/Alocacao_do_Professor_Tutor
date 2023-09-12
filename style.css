@@ -139,7 +139,7 @@ tr td{
 
 .divVoltar{
   display: flex;
-  padding: 0px 0px 20px 0px;
+  padding: 0px 0px 10px 0px;
 }
 .campoVoltar{
   display: flex;
@@ -151,6 +151,9 @@ tr td{
   color: #ffffff;
   cursor: pointer;
 }
+.campoVoltar:hover{
+  background-color: #EA5A33;
+}
 
 
 .displayNone{
@@ -159,6 +162,7 @@ tr td{
 .nomeVoltar{
   margin: auto 0px;
 }
+
 
 @media only screen and (max-width: 915px){
   .widthGeral{
