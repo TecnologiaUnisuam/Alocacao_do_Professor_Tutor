@@ -7,10 +7,10 @@ function buscar() {
 
 
     if (matricula == "") {
-        window.alert("CPF NÃO ENCONTRADA! \n\nVerifique se a matrícula inserida está correta.");
+        window.alert("CPF NÃO ENCONTRADA! \n\nVerifique se o CPF inserido está correto.");
     }
     else if (matricula.length != 11) {
-        window.alert("Verifique o CPF! \n\nA quantidade de caracteres para matrícula está incorreto.\n Exemplo:\n  \t1234567891");
+        window.alert("Verifique o CPF! \n\nA quantidade de caracteres para o CPF está incorreto.\n Exemplo:\n  \t0123456789");
     }
     else {
         var i;
