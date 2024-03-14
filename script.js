@@ -36,6 +36,7 @@ function buscar() {
             }
         }
 
+        
         if (matricula == '05494128750') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Rafael Oliveira da Mota</span>';
 }
@@ -47,6 +48,36 @@ else if (matricula == '05494128750') {
 }
 else if (matricula == '05494128750') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Rafael Oliveira da Mota</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '18148463794') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '01330406745') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Lidia Alice Medeiros</span>';
+}
+else if (matricula == '01330406745') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Lidia Alice Medeiros</span>';
 }
 else if (matricula == '05494128750') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Rafael Oliveira da Mota</span>';
@@ -1584,8 +1615,32 @@ else if (matricula == '01241688761') {
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
 }
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
+}
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+}
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
+}
+else if (matricula == '01241688761') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+}
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
+}
+else if (matricula == '01241688761') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+}
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
+}
+else if (matricula == '01241688761') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+}
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
 }
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
@@ -1596,26 +1651,32 @@ else if (matricula == '01241688761') {
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
 }
-else if (matricula == '01241688761') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
 }
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
 }
-else if (matricula == '01241688761') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
 }
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
 }
-else if (matricula == '01241688761') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
 }
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
 }
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
+}
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
+}
+else if (matricula == '02051812799') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Patricia Paes de Albuquerque</span>';
 }
 else if (matricula == '11714438708') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Lygia Nathália Pereira da Silva</span>';
@@ -2109,8 +2170,29 @@ else if (matricula == '14119118738') {
 else if (matricula == '14119118738') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Paulo Rodrigo Martins Ramalho</span>';
 }
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
+}
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
+}
 else if (matricula == '08943319657') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
+}
+else if (matricula == '08943319657') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
+}
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
+}
+else if (matricula == '08943319657') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
+}
+else if (matricula == '08943319657') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
+}
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
 }
 else if (matricula == '08943319657') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
@@ -2148,29 +2230,8 @@ else if (matricula == '08943319657') {
 else if (matricula == '08943319657') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
 }
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
-}
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
-}
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
-}
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
-}
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
-}
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
-}
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
-}
-else if (matricula == '08943319657') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
 }
 else if (matricula == '08943319657') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Phillipe Augusto Ferreira Rodrigues</span>';
@@ -2931,8 +2992,32 @@ else if (matricula == '13814480708') {
 else if (matricula == '13814480708') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Wesley Pinto da Silva</span>';
 }
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
+}
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
+}
 else if (matricula == '15155192790') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+}
+else if (matricula == '15155192790') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+}
+else if (matricula == '15155192790') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+}
+else if (matricula == '15155192790') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+}
+else if (matricula == '15155192790') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+}
+else if (matricula == '15155192790') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+}
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
 }
 else if (matricula == '15155192790') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
@@ -2958,8 +3043,8 @@ else if (matricula == '15155192790') {
 else if (matricula == '15155192790') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
 }
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
 }
 else if (matricula == '15155192790') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
@@ -2967,32 +3052,20 @@ else if (matricula == '15155192790') {
 else if (matricula == '15155192790') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
 }
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+else if (matricula == '10581207785') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Francine Ribeiro de Oliveira Souza</span>';
 }
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+else if (matricula == '07615312701') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Everton Santos Vasconcelos</span>';
 }
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+else if (matricula == '13814480708') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Wesley Pinto da Silva</span>';
 }
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+else if (matricula == '03618309716') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Aleciano Santana de Souza</span>';
 }
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
-}
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
-}
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
-}
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
-}
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
+else if (matricula == '13814480708') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Disciplinas com Prova Regular Presencial</span><sapn style="font-weight: bold;"> - Wesley Pinto da Silva</span>';
 }
 
 
