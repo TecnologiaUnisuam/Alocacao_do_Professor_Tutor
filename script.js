@@ -1,3 +1,7 @@
+function voltar() {
+    document.location.reload(true);
+}
+
 function buscar() {
     var matricula = document.getElementById('matricula').value;
     var validacoes = document.getElementById('validacoes');
@@ -37,7 +41,7 @@ function buscar() {
         }
 
         
-        if (matricula == '05494128750') {
+        else if (matricula == '05494128750') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Rafael Oliveira da Mota</span>';
 }
 else if (matricula == '05494128750') {
@@ -72,6 +76,9 @@ else if (matricula == '18148463794') {
 }
 else if (matricula == '18148463794') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Mariana de Oliveira Galvão</span>';
+}
+else if (matricula == '01330406745') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Lidia Alice Medeiros</span>';
 }
 else if (matricula == '01330406745') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Lidia Alice Medeiros</span>';
@@ -790,25 +797,25 @@ else if (matricula == '05407405784') {
 else if (matricula == '05407405784') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Cristiane Medeiros dos Santos</span>';
 }
-else if (matricula == '13941785737') {
+else if (matricula == '13136688775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Daniele Vaz Fernandes</span>';
 }
-else if (matricula == '13941785737') {
+else if (matricula == '13136688775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Daniele Vaz Fernandes</span>';
 }
-else if (matricula == '13941785737') {
+else if (matricula == '13136688775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Daniele Vaz Fernandes</span>';
 }
-else if (matricula == '13941785737') {
+else if (matricula == '13136688775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Daniele Vaz Fernandes</span>';
 }
-else if (matricula == '13941785737') {
+else if (matricula == '13136688775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Daniele Vaz Fernandes</span>';
 }
-else if (matricula == '13941785737') {
+else if (matricula == '13136688775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Daniele Vaz Fernandes</span>';
 }
-else if (matricula == '13941785737') {
+else if (matricula == '13136688775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Daniele Vaz Fernandes</span>';
 }
 else if (matricula == '04296055798') {
@@ -3074,13 +3081,6 @@ else if (matricula == '13814480708') {
 
 
 
-    }
+}}
 
-    /* 
-        window.scrollTo(0, 9999); */
-}
-
-function voltar() {
-    document.location.reload(true);
-}
 
