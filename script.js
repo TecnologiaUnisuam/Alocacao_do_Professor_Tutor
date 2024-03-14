@@ -41,7 +41,7 @@ function buscar() {
         }
 
         
-        else if (matricula == '05494128750') {
+        if (matricula == '05494128750') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Rafael Oliveira da Mota</span>';
 }
 else if (matricula == '05494128750') {
