@@ -42,7 +42,7 @@ function buscar() {
 
         
         
-        if (matricula == '13922540783') {
+        else if (matricula == '13922540783') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Felipe Akira Miasato</span>';
 }
 else if (matricula == '96337508734') {
@@ -53,6 +53,9 @@ else if (matricula == '96337508734') {
 }
 else if (matricula == '96337508734') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Rosangela Godinho Loureiro</span>';
+}
+else if (matricula == '15155192790') {
+            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
 }
 else if (matricula == '74487841704') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Claudia Abreu Paes </span>';
@@ -81,20 +84,8 @@ else if (matricula == '06993280710') {
 else if (matricula == '08705475775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Gilliard da Silva Alves</span>';
 }
-else if (matricula == '01330406745') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Lidia Alice Medeiros</span>';
-}
-else if (matricula == '01330406745') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Lidia Alice Medeiros</span>';
-}
 else if (matricula == '08705475775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Gilliard da Silva Alves</span>';
-}
-else if (matricula == '08705475775') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Gilliard da Silva Alves</span>';
-}
-else if (matricula == '03618309716') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Aleciano Santana de Souza</span>';
 }
 else if (matricula == '08705475775') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Gilliard da Silva Alves</span>';
@@ -167,9 +158,6 @@ else if (matricula == '09009347788') {
 }
 else if (matricula == '94945268720') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Marcelo Vasques De Oliveira</span>';
-}
-else if (matricula == '15155192790') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
 }
 else if (matricula == '15155192790') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
@@ -420,9 +408,6 @@ else if (matricula == '13814480708') {
 else if (matricula == '13814480708') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Wesley Pinto da Silva</span>';
 }
-else if (matricula == '13814480708') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Wesley Pinto da Silva</span>';
-}
 else if (matricula == '11316472701') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Davi dos Santos Marques</span>';
 }
@@ -597,9 +582,6 @@ else if (matricula == '11377877752') {
 else if (matricula == '12265447706') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Diego Augusto Rivas dos Santos</span>';
 }
-else if (matricula == '09647658702') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Carlos Henrique Pereira de Souza</span>';
-}
 else if (matricula == '08299352746') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Bruno Taranto Malheiros</span>';
 }
@@ -644,9 +626,6 @@ else if (matricula == '05799701755') {
 }
 else if (matricula == '05799701755') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Raphael Fernandes Gomes</span>';
-}
-else if (matricula == '10919835775') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Carolina Boucinha Martins</span>';
 }
 else if (matricula == '05799701755') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Raphael Fernandes Gomes</span>';
@@ -893,9 +872,6 @@ else if (matricula == '14524475788') {
 }
 else if (matricula == '15155192790') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Yan Inácio da Silva</span>';
-}
-else if (matricula == '01241688761') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
 }
 else if (matricula == '01241688761') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
@@ -1320,9 +1296,6 @@ else if (matricula == '02201940762') {
 else if (matricula == '94945268720') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Marcelo Vasques De Oliveira</span>';
 }
-else if (matricula == '94945268720') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Marcelo Vasques De Oliveira</span>';
-}
 else if (matricula == '15612718705') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Rodolfo Velasque Freitas de Oliveira</span>';
 }
@@ -1616,9 +1589,6 @@ else if (matricula == '09647658702') {
 }
 else if (matricula == '12207468780') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Celina Maria Frias Leal Martins</span>';
-}
-else if (matricula == '01241688761') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Luciana de Souza Lobato</span>';
 }
 else if (matricula == '05799701755') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Raphael Fernandes Gomes</span>';
@@ -2142,9 +2112,6 @@ else if (matricula == '37524490801') {
 else if (matricula == '03618309716') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Aleciano Santana de Souza</span>';
 }
-else if (matricula == '14119118738') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Paulo Rodrigo Martins Ramalho</span>';
-}
 else if (matricula == '03618309716') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Aleciano Santana de Souza</span>';
 }
@@ -2285,9 +2252,6 @@ else if (matricula == '10031270700') {
 }
 else if (matricula == '05494128750') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Rafael Oliveira da Mota</span>';
-}
-else if (matricula == '12299794760') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Raissa Lyra de Paiva Alves</span>';
 }
 else if (matricula == '12184618705') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Natália Xavier Pereira da Costa</span>';
@@ -2532,9 +2496,6 @@ else if (matricula == '14292526770') {
 else if (matricula == '23483309896') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Vanessa Sartori Rodi</span>';
 }
-else if (matricula == '15612718705') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Rodolfo Velasque Freitas de Oliveira</span>';
-}
 else if (matricula == '17172347714') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Mirelle de Andrade</span>';
 }
@@ -2690,9 +2651,6 @@ else if (matricula == '05494128750') {
 }
 else if (matricula == '76206009068') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Vinicius Martins de Mello</span>';
-}
-else if (matricula == '11712101757') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Ana Caroline dos Santos Gimenes Machado</span>';
 }
 else if (matricula == '05799701755') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Raphael Fernandes Gomes</span>';
@@ -2954,9 +2912,6 @@ else if (matricula == '11598314750') {
 }
 else if (matricula == '23483309896') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Vanessa Sartori Rodi</span>';
-}
-else if (matricula == '13814480708') {
-            nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Wesley Pinto da Silva</span>';
 }
 else if (matricula == '15167827710') {
             nomeTopo.innerHTML = '<sapn style="font-weight: 100;">Alocação do Professor Tutor</span><sapn style="font-weight: bold;"> - Nielson Athayde de Souza</span>';
